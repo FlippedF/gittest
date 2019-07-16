@@ -1,7 +1,7 @@
 #!/bin.bash
 #MySQL安装一键脚本（yum安装）
 #作者：vidar
-#版本：v1
+#版本：v1 
 #时间：2019年6月15日
 function menu()
 {
