@@ -1,5 +1,4 @@
 #!/bin.bash
-#!/bin/bash
 #MySQL安装一键脚本（yum安装）
 #作者：vidar
 #版本：v1
